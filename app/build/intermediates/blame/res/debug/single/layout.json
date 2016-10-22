@@ -1,14 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\layout\\activity_login.xml"
     }
 ]

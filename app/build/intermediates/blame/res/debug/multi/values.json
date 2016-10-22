@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 244
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 317
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 400
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 483
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 556
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 629
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 776
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 860
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -201,13 +201,13 @@
                     "endOffset": 1235
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 89,
+                        "startOffset": 92,
                         "endColumn": 57,
-                        "endOffset": 142
+                        "endOffset": 145
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1291
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 147,
+                        "startOffset": 151,
                         "endColumn": 55,
-                        "endOffset": 198
+                        "endOffset": 202
                     }
                 }
             },
@@ -239,7 +239,7 @@
                     "endOffset": 1358
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\version.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\version.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -258,13 +258,13 @@
                     "endOffset": 1412
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 493,
+                        "startOffset": 505,
                         "endColumn": 53,
-                        "endOffset": 542
+                        "endOffset": 554
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1465
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 165,
+                        "startOffset": 170,
                         "endColumn": 52,
-                        "endOffset": 213
+                        "endOffset": 218
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1528
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1485,
+                        "startOffset": 1514,
                         "endColumn": 62,
-                        "endOffset": 1543
+                        "endOffset": 1572
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1585
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1548,
+                        "startOffset": 1578,
                         "endColumn": 56,
-                        "endOffset": 1600
+                        "endOffset": 1630
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1641
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 55,
-                        "endOffset": 107
+                        "endOffset": 110
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1693
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 638,
+                        "startOffset": 653,
                         "endColumn": 51,
-                        "endOffset": 685
+                        "endOffset": 700
                     }
                 }
             },
@@ -372,7 +372,7 @@
                     "endOffset": 1785
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1873
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\auth_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2030
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2175
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2284
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2516
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2642
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2823
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 2948
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 3087
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3211
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3424
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3639
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 3762
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 3927
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4021
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4158
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 4299
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 4389
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 4537
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 4640
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 4791
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 4883
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 4994
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 5213
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 5308
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 5413
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 5594
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 5719
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 5894
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 5999
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
@@ -961,7 +961,7 @@
                     "endOffset": 6062
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 4,
@@ -980,13 +980,13 @@
                     "endOffset": 6106
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 218,
+                        "startOffset": 224,
                         "endColumn": 43,
-                        "endOffset": 257
+                        "endOffset": 263
                     }
                 }
             },
@@ -999,13 +999,13 @@
                     "endOffset": 6156
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 316,
+                        "startOffset": 324,
                         "endColumn": 49,
-                        "endOffset": 361
+                        "endOffset": 369
                     }
                 }
             },
@@ -1018,13 +1018,13 @@
                     "endOffset": 6194
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 794,
+                        "startOffset": 812,
                         "endColumn": 37,
-                        "endOffset": 827
+                        "endOffset": 845
                     }
                 }
             },
@@ -1037,13 +1037,13 @@
                     "endOffset": 6236
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 451,
+                        "startOffset": 462,
                         "endColumn": 41,
-                        "endOffset": 488
+                        "endOffset": 499
                     }
                 }
             },
@@ -1056,13 +1056,13 @@
                     "endOffset": 6308
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1841,
+                        "startOffset": 1875,
                         "endColumn": 71,
-                        "endOffset": 1908
+                        "endOffset": 1942
                     }
                 }
             },
@@ -1075,13 +1075,13 @@
                     "endOffset": 6388
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1761,
+                        "startOffset": 1794,
                         "endColumn": 79,
-                        "endOffset": 1836
+                        "endOffset": 1869
                     }
                 }
             },
@@ -1094,13 +1094,13 @@
                     "endOffset": 6466
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1605,
+                        "startOffset": 1636,
                         "endColumn": 77,
-                        "endOffset": 1678
+                        "endOffset": 1709
                     }
                 }
             },
@@ -1113,13 +1113,13 @@
                     "endOffset": 6544
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1683,
+                        "startOffset": 1715,
                         "endColumn": 77,
-                        "endOffset": 1756
+                        "endOffset": 1788
                     }
                 }
             },
@@ -1132,13 +1132,13 @@
                     "endOffset": 6597
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 112,
+                        "startOffset": 116,
                         "endColumn": 52,
-                        "endOffset": 160
+                        "endOffset": 164
                     }
                 }
             },
@@ -1151,13 +1151,13 @@
                     "endOffset": 6638
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 410,
+                        "startOffset": 420,
                         "endColumn": 40,
-                        "endOffset": 446
+                        "endOffset": 456
                     }
                 }
             },
@@ -1170,13 +1170,13 @@
                     "endOffset": 6695
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 690,
+                        "startOffset": 706,
                         "endColumn": 56,
-                        "endOffset": 742
+                        "endOffset": 758
                     }
                 }
             },
@@ -1189,13 +1189,13 @@
                     "endOffset": 6749
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 832,
+                        "startOffset": 851,
                         "endColumn": 53,
-                        "endOffset": 881
+                        "endOffset": 900
                     }
                 }
             },
@@ -1208,13 +1208,13 @@
                     "endOffset": 6796
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 747,
+                        "startOffset": 764,
                         "endColumn": 46,
-                        "endOffset": 789
+                        "endOffset": 806
                     }
                 }
             },
@@ -1227,13 +1227,13 @@
                     "endOffset": 7038
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 966,
+                        "startOffset": 988,
                         "endColumn": 241,
-                        "endOffset": 1203
+                        "endOffset": 1225
                     }
                 }
             },
@@ -1246,13 +1246,13 @@
                     "endOffset": 7117
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 887,
+                        "startOffset": 908,
                         "endColumn": 78,
-                        "endOffset": 961
+                        "endOffset": 982
                     }
                 }
             },
@@ -1265,13 +1265,13 @@
                     "endOffset": 7187
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1208,
+                        "startOffset": 1231,
                         "endColumn": 69,
-                        "endOffset": 1273
+                        "endOffset": 1296
                     }
                 }
             },
@@ -1285,14 +1285,14 @@
                     "endOffset": 7316
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1913,
+                        "startOffset": 1948,
                         "endLine": 37,
                         "endColumn": 13,
-                        "endOffset": 2037
+                        "endOffset": 2074
                     }
                 }
             },
@@ -1305,13 +1305,13 @@
                     "endOffset": 7363
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1374,
+                        "startOffset": 1401,
                         "endColumn": 46,
-                        "endOffset": 1416
+                        "endOffset": 1443
                     }
                 }
             },
@@ -1324,13 +1324,13 @@
                     "endOffset": 7427
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1421,
+                        "startOffset": 1449,
                         "endColumn": 63,
-                        "endOffset": 1480
+                        "endOffset": 1508
                     }
                 }
             },
@@ -1343,13 +1343,13 @@
                     "endOffset": 7471
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 366,
+                        "startOffset": 375,
                         "endColumn": 43,
-                        "endOffset": 405
+                        "endOffset": 414
                     }
                 }
             },
@@ -1362,13 +1362,13 @@
                     "endOffset": 7525
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 262,
+                        "startOffset": 269,
                         "endColumn": 53,
-                        "endOffset": 311
+                        "endOffset": 318
                     }
                 }
             },
@@ -1381,13 +1381,13 @@
                     "endOffset": 7582
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1278,
+                        "startOffset": 1302,
                         "endColumn": 56,
-                        "endOffset": 1330
+                        "endOffset": 1354
                     }
                 }
             },
@@ -1400,13 +1400,13 @@
                     "endOffset": 7628
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 592,
+                        "startOffset": 606,
                         "endColumn": 45,
-                        "endOffset": 633
+                        "endOffset": 647
                     }
                 }
             },
@@ -1419,13 +1419,13 @@
                     "endOffset": 7673
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 547,
+                        "startOffset": 560,
                         "endColumn": 44,
-                        "endOffset": 587
+                        "endOffset": 600
                     }
                 }
             },
@@ -1439,14 +1439,14 @@
                     "endOffset": 7964
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 186,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 472
+                        "endOffset": 484
                     }
                 }
             },
@@ -1460,479 +1460,14 @@
                     "endOffset": 8124
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 510,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 665
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 89,
-                        "endColumn": 57,
-                        "endOffset": 142
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 113,
-                    "endColumn": 55,
-                    "endOffset": 164
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 147,
-                        "endColumn": 55,
-                        "endOffset": 198
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 169,
-                    "endColumn": 53,
-                    "endOffset": 218
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 493,
-                        "endColumn": 53,
-                        "endOffset": 542
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 223,
-                    "endColumn": 52,
-                    "endOffset": 271
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 165,
-                        "endColumn": 52,
-                        "endOffset": 213
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 276,
-                    "endColumn": 55,
-                    "endOffset": 327
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 55,
-                        "endOffset": 107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 332,
-                    "endColumn": 51,
-                    "endOffset": 379
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 638,
-                        "endColumn": 51,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 384,
-                    "endColumn": 43,
-                    "endOffset": 423
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 218,
-                        "endColumn": 43,
-                        "endOffset": 257
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 428,
-                    "endColumn": 49,
-                    "endOffset": 473
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 316,
-                        "endColumn": 49,
-                        "endOffset": 361
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 37,
-                    "endOffset": 511
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 794,
-                        "endColumn": 37,
-                        "endOffset": 827
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 516,
-                    "endColumn": 41,
-                    "endOffset": 553
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 451,
-                        "endColumn": 41,
-                        "endOffset": 488
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 558,
-                    "endColumn": 52,
-                    "endOffset": 606
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 112,
-                        "endColumn": 52,
-                        "endOffset": 160
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 611,
-                    "endColumn": 40,
-                    "endOffset": 647
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 410,
-                        "endColumn": 40,
-                        "endOffset": 446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 652,
-                    "endColumn": 56,
-                    "endOffset": 704
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 56,
-                        "endOffset": 742
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 709,
-                    "endColumn": 53,
-                    "endOffset": 758
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 832,
-                        "endColumn": 53,
-                        "endOffset": 881
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 763,
-                    "endColumn": 46,
-                    "endOffset": 805
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 747,
-                        "endColumn": 46,
-                        "endOffset": 789
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 810,
-                    "endColumn": 241,
-                    "endOffset": 1047
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 966,
-                        "endColumn": 241,
-                        "endOffset": 1203
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1052,
-                    "endColumn": 78,
-                    "endOffset": 1126
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 887,
-                        "endColumn": 78,
-                        "endOffset": 961
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1131,
-                    "endColumn": 69,
-                    "endOffset": 1196
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 1208,
-                        "endColumn": 69,
-                        "endOffset": 1273
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1201,
-                    "endColumn": 43,
-                    "endOffset": 1240
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 366,
-                        "endColumn": 43,
-                        "endOffset": 405
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1245,
-                    "endColumn": 53,
-                    "endOffset": 1294
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 262,
-                        "endColumn": 53,
-                        "endOffset": 311
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 1299,
-                    "endColumn": 45,
-                    "endOffset": 1340
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 592,
-                        "endColumn": 45,
-                        "endOffset": 633
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 1345,
-                    "endColumn": 44,
-                    "endOffset": 1385
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 547,
-                        "endColumn": 44,
-                        "endOffset": 587
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1390,
-                    "endLine": 30,
-                    "endColumn": 12,
-                    "endOffset": 1676
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 186,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1681,
-                    "endLine": 33,
-                    "endColumn": 12,
-                    "endOffset": 1836
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 510,
-                        "endLine": 17,
-                        "endColumn": 12,
-                        "endOffset": 665
+                        "endOffset": 682
                     }
                 }
             }
