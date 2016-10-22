@@ -58,8 +58,11 @@ import android.widget.TextView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 
-//Clockwork API
-import com.clockworksms.*;
+import com.twilio.Twilio;
+import com.twilio.rest.api.v2010.account.Message;
+import com.twilio.type.PhoneNumber;
+
+import java.net.URISyntaxException;
 
 /**
  * This example will illustrate how to connect to a Muse headband,
@@ -796,30 +799,5 @@ public class MainActivity extends Activity implements OnClickListener {
         }
     }
     
-    //Clockwork API
-    public class DemoSms
-{
-   public static void main(String[] args)
-   {
-      try
-      {
-         ClockWorkSmsService clockWorkSmsService = new ClockWorkSmsService("apikey");
-         SMS sms = new SMS("XXXXXXXXX", "Hello World");
-         ClockworkSmsResult result = clockWorkSmsService.send(sms);
-
-         if(result.isSuccess())
-         {
-            System.out.println("Sent with ID: " + result.getId());
-         }
-         else
-         {
-            System.out.println("Error: " + result.getErrorMessage());
-         }
-      }
-      catch (ClockworkException e)
-      {
-         e.printStackTrace();
-      }
-   }
-}
+ 
 }
