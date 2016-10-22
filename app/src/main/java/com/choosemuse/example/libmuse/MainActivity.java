@@ -59,6 +59,9 @@ import android.widget.TextView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 
+//Clockwork API
+import com.clockworksms.*;
+
 /**
  * This example will illustrate how to connect to a Muse headband,
  * register for and receive EEG data and disconnect from the headband.
@@ -810,4 +813,31 @@ public class MainActivity extends Activity implements OnClickListener {
             activityRef.get().receiveMuseArtifactPacket(p, muse);
         }
     }
+    
+    //Clockwork API
+    public class DemoSms
+{
+   public static void main(String[] args)
+   {
+      try
+      {
+         ClockWorkSmsService clockWorkSmsService = new ClockWorkSmsService("apikey");
+         SMS sms = new SMS("XXXXXXXXX", "Hello World");
+         ClockworkSmsResult result = clockWorkSmsService.send(sms);
+
+         if(result.isSuccess())
+         {
+            System.out.println("Sent with ID: " + result.getId());
+         }
+         else
+         {
+            System.out.println("Error: " + result.getErrorMessage());
+         }
+      }
+      catch (ClockworkException e)
+      {
+         e.printStackTrace();
+      }
+   }
+}
 }
