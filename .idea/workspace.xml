@@ -57,11 +57,31 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41149774">
-              <caret line="433" column="38" selection-start-line="433" selection-start-column="38" selection-end-line="433" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.6444781">
+              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding>
-                <element signature="e#22859#23210#0" expanded="true" />
-                <element signature="e#23209#23210#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#7884#7898#0" expanded="true" />
+                <element signature="e#13608#14037#0" expanded="true" />
+                <element signature="e#14036#14037#0" expanded="true" />
+                <element signature="e#14457#14489#0" expanded="true" />
+                <element signature="e#14523#14561#0" expanded="true" />
+                <element signature="e#14602#14639#0" expanded="true" />
+                <element signature="e#15953#17009#0" expanded="true" />
+                <element signature="e#16947#16965#0" expanded="true" />
+                <element signature="e#17008#17009#0" expanded="true" />
+                <element signature="e#22842#23193#0" expanded="true" />
+                <element signature="e#23192#23193#0" expanded="true" />
+                <element signature="e#25036#25736#0" expanded="true" />
+                <element signature="e#25735#25736#0" expanded="true" />
+                <element signature="e#26090#26258#0" expanded="true" />
+                <element signature="e#26257#26258#0" expanded="true" />
+                <element signature="e#26475#27049#0" expanded="true" />
+                <element signature="e#27048#27049#0" expanded="true" />
+                <element signature="e#32089#32090#0" expanded="true" />
+                <element signature="e#32143#32144#0" expanded="true" />
+                <element signature="e#32202#32203#0" expanded="true" />
+                <element signature="e#32261#32262#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2099,8 +2119,28 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding>
-            <element signature="e#22859#23210#0" expanded="true" />
-            <element signature="e#23209#23210#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#7884#7898#0" expanded="true" />
+            <element signature="e#13608#14037#0" expanded="true" />
+            <element signature="e#14036#14037#0" expanded="true" />
+            <element signature="e#14457#14489#0" expanded="true" />
+            <element signature="e#14523#14561#0" expanded="true" />
+            <element signature="e#14602#14639#0" expanded="true" />
+            <element signature="e#15953#17009#0" expanded="true" />
+            <element signature="e#16947#16965#0" expanded="true" />
+            <element signature="e#17008#17009#0" expanded="true" />
+            <element signature="e#22842#23193#0" expanded="true" />
+            <element signature="e#23192#23193#0" expanded="true" />
+            <element signature="e#25036#25736#0" expanded="true" />
+            <element signature="e#25735#25736#0" expanded="true" />
+            <element signature="e#26090#26258#0" expanded="true" />
+            <element signature="e#26257#26258#0" expanded="true" />
+            <element signature="e#26475#27049#0" expanded="true" />
+            <element signature="e#27048#27049#0" expanded="true" />
+            <element signature="e#32089#32090#0" expanded="true" />
+            <element signature="e#32143#32144#0" expanded="true" />
+            <element signature="e#32202#32203#0" expanded="true" />
+            <element signature="e#32261#32262#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2139,11 +2179,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41149774">
-          <caret line="433" column="38" selection-start-line="433" selection-start-column="38" selection-end-line="433" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.6444781">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
-            <element signature="e#22859#23210#0" expanded="true" />
-            <element signature="e#23209#23210#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#7884#7898#0" expanded="true" />
+            <element signature="e#13608#14037#0" expanded="true" />
+            <element signature="e#14036#14037#0" expanded="true" />
+            <element signature="e#14457#14489#0" expanded="true" />
+            <element signature="e#14523#14561#0" expanded="true" />
+            <element signature="e#14602#14639#0" expanded="true" />
+            <element signature="e#15953#17009#0" expanded="true" />
+            <element signature="e#16947#16965#0" expanded="true" />
+            <element signature="e#17008#17009#0" expanded="true" />
+            <element signature="e#22842#23193#0" expanded="true" />
+            <element signature="e#23192#23193#0" expanded="true" />
+            <element signature="e#25036#25736#0" expanded="true" />
+            <element signature="e#25735#25736#0" expanded="true" />
+            <element signature="e#26090#26258#0" expanded="true" />
+            <element signature="e#26257#26258#0" expanded="true" />
+            <element signature="e#26475#27049#0" expanded="true" />
+            <element signature="e#27048#27049#0" expanded="true" />
+            <element signature="e#32089#32090#0" expanded="true" />
+            <element signature="e#32143#32144#0" expanded="true" />
+            <element signature="e#32202#32203#0" expanded="true" />
+            <element signature="e#32261#32262#0" expanded="true" />
           </folding>
         </state>
       </provider>
