@@ -7,6 +7,7 @@ package com.choosemuse.example.libmuse;
 
 import java.io.File;
 import java.lang.ref.WeakReference;
+import java.util.Date;
 import java.util.List;
 
 import java.util.concurrent.atomic.AtomicReference;
@@ -82,7 +83,7 @@ import android.support.v4.content.ContextCompat;
 public class MainActivity extends Activity implements OnClickListener {
 
     //individual eeg and accel records/averages
-    private Record record;
+    private Record record = new Record(this);
 
     /**
      * Tag used for logging purposes.
@@ -178,6 +179,8 @@ public class MainActivity extends Activity implements OnClickListener {
      * See https://g.co/AppIndexing/AndroidStudio for more information.
      */
     private GoogleApiClient client;
+    protected boolean averageSet;
+    private Date date;
 
 
     //--------------------------------------
@@ -223,6 +226,7 @@ public class MainActivity extends Activity implements OnClickListener {
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+
     }
 
     protected void onPause() {
@@ -424,6 +428,11 @@ public class MainActivity extends Activity implements OnClickListener {
             case EEG:
                 assert (eegBuffer.length >= n);
                 getEegChannelValues(eegBuffer, p);
+                if (!averageSet) {
+                    record.setMeanAccel(p.getAccelerometerValue(Accelerometer.X) + p.getAccelerometerValue(Accelerometer.Y) + p.getAccelerometerValue(Accelerometer.Z));
+                } else {
+                    //do checking here
+                }
                 if (record.isSeizure()){
                     //send possible seizure alert
                 } else if (record.isPanicAttack()){
@@ -435,7 +444,9 @@ public class MainActivity extends Activity implements OnClickListener {
                 assert (accelBuffer.length >= n);
                 getAccelValues(p);
                 accelStale = true;
-                System.out.println("Accel Data X:" + p.getAccelerometerValue(Accelerometer.X));
+                if (!averageSet) {
+                    record.setMeanAccel(p.getAccelerometerValue(Accelerometer.X) + p.getAccelerometerValue(Accelerometer.Y) + p.getAccelerometerValue(Accelerometer.Z));
+                }
                 break;
             case ALPHA_RELATIVE:
                 assert (alphaBuffer.length >= n);
@@ -447,6 +458,13 @@ public class MainActivity extends Activity implements OnClickListener {
             case QUANTIZATION:
             default:
                 break;
+        }
+        if (!averageSet) {
+            //alert = Average being set, resume normal activity
+            date = new java.util.Date();
+            if (new java.util.Date().getTime() - date.getTime() / 1000 % 60 >= 60 ){
+                averageSet = true;
+            }
         }
     }
 

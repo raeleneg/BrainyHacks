@@ -26,26 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5128593">
-              <caret line="429" column="54" selection-start-line="429" selection-start-column="54" selection-end-line="429" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Record.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/Record.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
               <folding>
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1268#1269#0" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,6 +50,19 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41149774">
+              <caret line="433" column="38" selection-start-line="433" selection-start-column="38" selection-end-line="433" selection-end-column="38" />
+              <folding>
+                <element signature="e#22859#23210#0" expanded="true" />
+                <element signature="e#23209#23210#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -2092,7 +2098,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#22859#23210#0" expanded="true" />
+            <element signature="e#23209#23210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2115,21 +2124,27 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/Record.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
           <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1268#1269#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/choosemuse/example/libmuse/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5128593">
-          <caret line="429" column="54" selection-start-line="429" selection-start-column="54" selection-end-line="429" selection-end-column="54" />
-          <folding />
+        <state vertical-scroll-proportion="0.41149774">
+          <caret line="433" column="38" selection-start-line="433" selection-start-column="38" selection-end-line="433" selection-end-column="38" />
+          <folding>
+            <element signature="e#22859#23210#0" expanded="true" />
+            <element signature="e#23209#23210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
