@@ -12,12 +12,14 @@ import java.lang.reflect.Array;
 public class Record {
 
     private MainActivity mainActivity;
-    private double totalEegX = 0;
-    private int countEegX = 0;
-    private double totalEegY = 0;
-    private int countEegY = 0;
-    private double totalEegZ = 0;
-    private int countEegZ = 0;
+    private double totalEeg1 = 0;
+    private int countEeg1 = 0;
+    private double totalEeg2 = 0;
+    private int countEeg2 = 0;
+    private double totalEeg3 = 0;
+    private int countEeg3 = 0;
+    private double totalEeg4 = 0;
+    private double countEeg4 = 0;
     private double totalAccel = 0 ;
     private int countAccel = 0;
 
@@ -29,19 +31,24 @@ public class Record {
     //add count for each data and add to total
     //find average and fix as data point
 
-    protected void setTotalEegX(double currentEegX) {
-        this.totalEegX += currentEegX;
-        countEegX++;
+    protected void setTotalEeg1(double currentEeg1) {
+        this.totalEeg1 += currentEeg1;
+        countEeg1++;
     }
 
-    protected void setTotalEegY(double currentEegY) {
-        this.totalEegY += currentEegY;
-        countEegY++;
+    protected void setTotalEeg2(double currentEeg2) {
+        this.totalEeg2 += currentEeg2;
+        countEeg2++;
     }
 
-    protected void setTotalEegZ(double currentEegZ) {
-        this.totalEegZ += currentEegZ;
-        countEegZ++;
+    protected void setTotalEeg3(double currentEeg3) {
+        this.totalEeg3 += currentEeg3;
+        countEeg3++;
+    }
+
+    protected void setTotalEeg4(double currentEeg4){
+        this.totalEeg4 = currentEeg4;
+        countEeg4++;
     }
 
     public void setMeanAccel(double currentAccel) {

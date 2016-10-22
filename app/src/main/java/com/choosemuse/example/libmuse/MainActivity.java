@@ -429,7 +429,10 @@ public class MainActivity extends Activity implements OnClickListener {
                 assert (eegBuffer.length >= n);
                 getEegChannelValues(eegBuffer, p);
                 if (!averageSet) {
-                    record.setMeanAccel(p.getAccelerometerValue(Accelerometer.X) + p.getAccelerometerValue(Accelerometer.Y) + p.getAccelerometerValue(Accelerometer.Z));
+                    record.setTotalEeg1(p.getEegChannelValue(Eeg.EEG1));
+                    record.setTotalEeg2(p.getEegChannelValue(Eeg.EEG2));
+                    record.setTotalEeg3(p.getEegChannelValue(Eeg.EEG3));
+                    record.setTotalEeg4(p.getEegChannelValue(Eeg.EEG4));
                 } else {
                     if (record.isSeizure()) {
                         //send possible seizure alert
