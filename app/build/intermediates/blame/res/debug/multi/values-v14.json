@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,40 +12,14 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\raele\\AndroidStudioProjects\\BrainyHacks\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\Dietrich\\Documents\\BrainyHacks\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 220,
+                        "startOffset": 227,
                         "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 366
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 201
-                },
-                "from": {
-                    "file": "C:\\Users\\raele\\libmuse_5.13.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 220,
-                        "endLine": 9,
-                        "endColumn": 12,
-                        "endOffset": 366
+                        "endOffset": 375
                     }
                 }
             }
