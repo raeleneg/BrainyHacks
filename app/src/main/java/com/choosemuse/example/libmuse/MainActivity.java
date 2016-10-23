@@ -53,11 +53,15 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.TextView;
 
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
+
+import android.telephony.SmsManager;
+import android.widget.Toast;
 
 /**
  * This example will illustrate how to connect to a Muse headband,
@@ -81,6 +85,8 @@ import android.support.v4.content.ContextCompat;
  * 8. To disconnect from the headband, press "Disconnect"
  */
 public class MainActivity extends Activity implements OnClickListener {
+    EditText txtphoneNo;
+    EditText txtMessage;
 
     //individual eeg and accel records/averages
     private Record record = new Record(this);
@@ -810,6 +816,23 @@ public class MainActivity extends Activity implements OnClickListener {
         @Override
         public void receiveMuseArtifactPacket(final MuseArtifactPacket p, final Muse muse) {
             activityRef.get().receiveMuseArtifactPacket(p, muse);
+        }
+    }
+
+    protected void sendSMSMessage() {
+        Log.i("Send SMS", "");
+        String phoneNo = txtphoneNo.getText().toString();
+        String message = txtMessage.getText().toString();
+
+        try {
+            SmsManager smsManager = SmsManager.getDefault();
+            smsManager.sendTextMessage(phoneNo, null, message, null, null);
+            Toast.makeText(getApplicationContext(), "SMS sent.", Toast.LENGTH_LONG).show();
+        }
+
+        catch (Exception e) {
+            Toast.makeText(getApplicationContext(), "SMS faild, please try again.", Toast.LENGTH_LONG).show();
+            e.printStackTrace();
         }
     }
 }
