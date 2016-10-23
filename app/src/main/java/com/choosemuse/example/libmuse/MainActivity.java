@@ -86,7 +86,7 @@ import android.widget.Toast;
  */
 public class MainActivity extends Activity implements OnClickListener {
     EditText txtphoneNo;
-    EditText txtMessage;
+    String txtMessage;
 
     //individual eeg and accel records/averages
     private Record record = new Record(this);
@@ -442,8 +442,10 @@ public class MainActivity extends Activity implements OnClickListener {
                 } else {
                     if (record.isSeizure()) {
                         //send possible seizure alert
+                        sendSMSMessage(0);
                     } else if (record.isPanicAttack()) {
                         //send possible panic attack alert
+                        sendSMSMessage(1);
                     }
                 }
                 eegStale = true;
@@ -819,14 +821,21 @@ public class MainActivity extends Activity implements OnClickListener {
         }
     }
 
-    protected void sendSMSMessage() {
+    protected void sendSMSMessage(int eventCase) {
         Log.i("Send SMS", "");
         String phoneNo = txtphoneNo.getText().toString();
-        String message = txtMessage.getText().toString();
+        switch(eventCase){
+            case 1:
+                txtMessage = "Your loved one may be having a seizure.";
+                break;
+            case 2:
+                txtMessage = "Your loved one may be having a panic attack";
+
+        }
 
         try {
             SmsManager smsManager = SmsManager.getDefault();
-            smsManager.sendTextMessage(phoneNo, null, message, null, null);
+            smsManager.sendTextMessage(phoneNo, null, txtMessage, null, null);
             Toast.makeText(getApplicationContext(), "SMS sent.", Toast.LENGTH_LONG).show();
         }
 
