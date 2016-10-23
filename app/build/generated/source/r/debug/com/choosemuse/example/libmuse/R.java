@@ -62,42 +62,34 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020002;
     }
     public static final class id {
-        public static final int acc_x=0x7f0a0013;
-        public static final int acc_y=0x7f0a0014;
-        public static final int acc_z=0x7f0a0015;
-        public static final int action_settings=0x7f0a001c;
+        public static final int acc_x=0x7f0a000c;
+        public static final int acc_y=0x7f0a000d;
+        public static final int acc_z=0x7f0a000e;
+        public static final int action_settings=0x7f0a0015;
         public static final int adjust_height=0x7f0a0000;
         public static final int adjust_width=0x7f0a0001;
-        public static final int con_status=0x7f0a000e;
-        public static final int connect=0x7f0a000c;
-        public static final int disconnect=0x7f0a000d;
-        public static final int eeg_af7=0x7f0a0010;
-        public static final int eeg_af8=0x7f0a0011;
-        public static final int eeg_tp10=0x7f0a0012;
-        public static final int eeg_tp9=0x7f0a000f;
-        public static final int elem1=0x7f0a0016;
-        public static final int elem2=0x7f0a0017;
-        public static final int elem3=0x7f0a0018;
-        public static final int elem4=0x7f0a0019;
-        public static final int email=0x7f0a0006;
-        public static final int email_login_form=0x7f0a0005;
-        public static final int email_sign_in_button=0x7f0a0009;
-        public static final int login=0x7f0a0008;
-        public static final int login_form=0x7f0a0004;
-        public static final int login_progress=0x7f0a0003;
-        public static final int muses_spinner=0x7f0a000a;
+        public static final int con_status=0x7f0a0007;
+        public static final int connect=0x7f0a0005;
+        public static final int disconnect=0x7f0a0006;
+        public static final int eeg_af7=0x7f0a0009;
+        public static final int eeg_af8=0x7f0a000a;
+        public static final int eeg_tp10=0x7f0a000b;
+        public static final int eeg_tp9=0x7f0a0008;
+        public static final int elem1=0x7f0a000f;
+        public static final int elem2=0x7f0a0010;
+        public static final int elem3=0x7f0a0011;
+        public static final int elem4=0x7f0a0012;
+        public static final int muses_spinner=0x7f0a0003;
         public static final int none=0x7f0a0002;
-        public static final int password=0x7f0a0007;
-        public static final int pause=0x7f0a001b;
-        public static final int refresh=0x7f0a000b;
-        public static final int version=0x7f0a001a;
+        public static final int pause=0x7f0a0014;
+        public static final int refresh=0x7f0a0004;
+        public static final int yourstatus=0x7f0a0013;
     }
     public static final class integer {
         public static final int google_play_services_version=0x7f080000;
     }
     public static final class layout {
-        public static final int activity_login=0x7f030000;
-        public static final int activity_main=0x7f030001;
+        public static final int activity_main=0x7f030000;
     }
     public static final class menu {
         public static final int main=0x7f090000;
@@ -165,6 +157,7 @@ containing a value of this type.
         public static final int title_activity_login=0x7f04003b;
         public static final int undefined=0x7f04003c;
         public static final int version=0x7f04003d;
+        public static final int yourstatus=0x7f04003e;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

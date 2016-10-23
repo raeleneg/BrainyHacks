@@ -158,9 +158,9 @@
 	    	android:layout_height="match_parent"
 	    	android:layout_weight="1"
 	    	android:textSize="16sp"
-	    	android:text="@string/version" />
+	    	android:text="@string/yourstatus" />
    	    <TextView
-   	        android:id="@+id/version"
+   	        android:id="@+id/yourstatus"
 	   		android:layout_width="match_parent"
 	    	android:layout_height="match_parent"
 	    	android:layout_weight="1"

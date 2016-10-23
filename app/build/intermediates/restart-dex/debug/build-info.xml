@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="7"
+    timestamp="66701233273679"
+    token="7278795560235529122" >
+
+    <task
+        name="javac"
+        duration="732" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="163" />
+    <task
+        name="verifier"
+        duration="49" />
+
+    <artifact
+        location="C:\Users\raele\AndroidStudioProjects\BrainyHacks\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="66064160104279" >
+        <artifact
+            location="C:\Users\raele\AndroidStudioProjects\BrainyHacks\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="66701233273679" >
+        <artifact
+            location="C:\Users\raele\AndroidStudioProjects\BrainyHacks\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
