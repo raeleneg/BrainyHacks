@@ -51,16 +51,34 @@ public class Record {
         countEeg4++;
     }
 
+    protected double getMeanEeg1(){
+        return this.totalEeg1/this.countEeg1;
+    }
+
     public void setMeanAccel(double currentAccel) {
         this.totalAccel += currentAccel;
         this.countAccel++;
     }
 
-    protected boolean isPanicAttack(){
-        return false;
+    protected double getMeanAccel(){
+        return this.totalAccel/this.countAccel;
     }
 
-    protected boolean isSeizure(){
+    private boolean isBelow() {
+        return this.getMeanEeg1() - this.getMeanEeg1()*.45 >= mainActivity.getEeg1Average();
+    }
+
+    private boolean isAbove() {
+        return this.getMeanEeg1() + this.getMeanEeg1()*.45 <= mainActivity.getEeg1Average();
+    }
+
+    protected boolean isAbnormal(){
+        if (mainActivity.isAverageSet()) {
+            if (isAbove() || isBelow()) {
+                return true;
+            }
+        } else return false;
+
         return false;
     }
 

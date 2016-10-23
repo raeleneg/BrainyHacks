@@ -182,6 +182,21 @@ public class MainActivity extends Activity implements OnClickListener {
     protected boolean averageSet;
     private Date date;
 
+    protected double getEeg1Average() {
+        return eeg1Average;
+    }
+
+    protected double getAccelAverage() {
+        return accelAverage;
+    }
+
+    protected boolean isAverageSet() {
+        return averageSet;
+    }
+
+    private double eeg1Average;
+    private double accelAverage;
+
 
     //--------------------------------------
     // Lifecycle / Connection code
@@ -411,6 +426,17 @@ public class MainActivity extends Activity implements OnClickListener {
         }
     }
 
+    protected void setEeg(final MuseDataPacket p){
+        record.setTotalEeg1(p.getEegChannelValue(Eeg.EEG1));
+        record.setTotalEeg2(p.getEegChannelValue(Eeg.EEG2));
+        record.setTotalEeg3(p.getEegChannelValue(Eeg.EEG3));
+        record.setTotalEeg4(p.getEegChannelValue(Eeg.EEG4));
+    }
+
+    protected void setAccel(final MuseDataPacket p){
+        record.setMeanAccel(p.getAccelerometerValue(Accelerometer.X) + p.getAccelerometerValue(Accelerometer.Y) + p.getAccelerometerValue(Accelerometer.Z));
+    }
+
     /**
      * You will receive a callback to this method each time the headband sends a MuseDataPacket
      * that you have registered.  You can use different listeners for different packet types or
@@ -429,15 +455,13 @@ public class MainActivity extends Activity implements OnClickListener {
                 assert (eegBuffer.length >= n);
                 getEegChannelValues(eegBuffer, p);
                 if (!averageSet) {
-                    record.setTotalEeg1(p.getEegChannelValue(Eeg.EEG1));
-                    record.setTotalEeg2(p.getEegChannelValue(Eeg.EEG2));
-                    record.setTotalEeg3(p.getEegChannelValue(Eeg.EEG3));
-                    record.setTotalEeg4(p.getEegChannelValue(Eeg.EEG4));
+                    setEeg(p);
                 } else {
-                    if (record.isSeizure()) {
-                        //send possible seizure alert
-                    } else if (record.isPanicAttack()) {
-                        //send possible panic attack alert
+                    setEeg(p);
+                    if (record.isAbnormal()) {
+                        //alert w text message , abormal eeg
+                        record.getMeanAccel(); //their mean accleration should be sent with text
+                        //send location
                     }
                 }
                 eegStale = true;
@@ -446,9 +470,7 @@ public class MainActivity extends Activity implements OnClickListener {
                 assert (accelBuffer.length >= n);
                 getAccelValues(p);
                 accelStale = true;
-                if (!averageSet) {
-                    record.setMeanAccel(p.getAccelerometerValue(Accelerometer.X) + p.getAccelerometerValue(Accelerometer.Y) + p.getAccelerometerValue(Accelerometer.Z));
-                }
+                setAccel(p);
                 break;
             case ALPHA_RELATIVE:
                 assert (alphaBuffer.length >= n);
@@ -466,6 +488,8 @@ public class MainActivity extends Activity implements OnClickListener {
             date = new java.util.Date();
             if (new java.util.Date().getTime() - date.getTime() / 1000 % 60 >= 60 ){
                 averageSet = true;
+                eeg1Average = record.getMeanEeg1();
+                accelAverage = record.getMeanAccel();
             }
         }
     }
